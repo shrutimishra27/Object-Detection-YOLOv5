@@ -1,0 +1,8 @@
+path: ../train-data/
+train: ../train-data/images/train/
+val: ../train-data/images/val/
+
+# Classes
+names:
+  0: bike
+  1: car
